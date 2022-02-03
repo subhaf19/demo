@@ -1,5 +1,5 @@
 def sqrt(x):
-     return x ** 0.5
+     return x ** 0.9
 
 def add_function(func, x):
     return func(x) + func(x)
